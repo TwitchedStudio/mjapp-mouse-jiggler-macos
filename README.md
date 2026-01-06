@@ -1,6 +1,6 @@
 # MJApp — Mouse Jiggler & Mouse Mover for macOS
 
-![MJApp screenshot](assets/mjapp-screenshot.png)
+![MJApp screenshot](assets/mjapp-schedule.png)
 
 MJApp is a lightweight **mouse jiggler for macOS**.  
 It subtly moves the mouse to keep your Mac active and prevent idle or away status.
